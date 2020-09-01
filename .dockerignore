@@ -1,0 +1,8 @@
+*
+!dist/docker-entrypoint.sh
+!src/
+!base.tsconfig.json
+!package.json
+!package-lock.json
+!README.md
+!tsconfig.json
